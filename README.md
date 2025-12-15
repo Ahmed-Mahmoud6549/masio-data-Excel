@@ -23,8 +23,8 @@ It focuses on cleaning, modeling, and visualizing Excel-based data to support da
 
 
 <p align="center">
-  <img width="1679" height="936" alt="Screenshot 2025-10-01 204648" src="https://github.com/user-attachments/assets/dfb16690-2012-437e-9ba5-60af263e2567" />
   <img src="https://github.com/user-attachments/assets/badf81f4-3db2-4235-ba4f-77960aaed8d5" width="48%" />
+  <img width="1679" height="936" alt="Screenshot 2025-10-01 204648" src="https://github.com/user-attachments/assets/dfb16690-2012-437e-9ba5-60af263e2567" />
 </p>
 
 
